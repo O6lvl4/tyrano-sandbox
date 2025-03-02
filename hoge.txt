@@ -1,0 +1,6 @@
+291M	TyranoStudio.app/
+  0B	export/
+ 16M	myprojects/
+641M	node_modules/
+ 26M	system_master/
+  0B	tmp/

@@ -1,0 +1,26 @@
+{
+  "name": "studio",
+  "version": "1.0.0",
+  "description": "tyrano studio",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shikemokumk",
+  "license": "",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "asar": "^3.2.0",
+    "csv-parse": "^5.5.6",
+    "csv-stringify": "^6.5.0",
+    "fs-extra": "^11.1.1",
+    "http": "^0.0.1-security",
+    "node-static": "^0.7.11",
+    "zip-dir": "^2.0.0"
+  },
+  "devDependencies": {
+    "electron": "^24.2.0",
+    "electron-packager": "^17.1.1"
+  }
+}
